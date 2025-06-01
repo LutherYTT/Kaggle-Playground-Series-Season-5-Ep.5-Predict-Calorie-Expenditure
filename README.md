@@ -5,6 +5,7 @@ This repository contains the code and documentation for my solution to the [Kagg
 ---
 
 ## Table of Contents
+- [Contributors](#contributors)
 - [Approach](#approach)
   - [Data Preprocessing](#data-preprocessing)
   - [Feature Engineering](#feature-engineering)
@@ -16,6 +17,13 @@ This repository contains the code and documentation for my solution to the [Kagg
 - [Dependencies](#dependencies)
 
 ---
+
+## Contributors
+| **Name**         | **Email**              | **Kaggle Profile**    |
+|------------------|------------------------|-----------------------|
+| Lu Yuk Tong      | luyuktong@gmail.com    |https://www.kaggle.com/lutherlu|
+|X     | X    | X |
+
 
 ## Approach
 
