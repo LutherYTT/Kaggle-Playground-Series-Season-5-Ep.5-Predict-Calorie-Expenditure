@@ -1,6 +1,6 @@
 # Predict Calorie Expenditure - Kaggle Playground Series S5E5
 
-This repository contains the code and documentation for my solution to the [Kaggle Playground Series - Season 5, Episode 5](https://www.kaggle.com/competitions/playground-series-s5e5) competition. The goal was to predict calorie expenditure during exercise based on features such as `Sex`, `Age`, `Height`, `Weight`, `Duration`, `Heart_Rate`, and `Body_Temp`. My approach achieved a top 18% ranking (771 out of 4316 participants) on the leaderboard.
+This repository contains the code and documentation for my solution to the [Kaggle Playground Series - Season 5, Episode 5](https://www.kaggle.com/competitions/playground-series-s5e5) competition. The goal was to predict calorie expenditure during exercise based on features such as `Sex`, `Age`, `Height`, `Weight`, `Duration`, `Heart_Rate`, and `Body_Temp`. My approach achieved a **top 18% ranking** (771 out of 4316 participants) on the leaderboard.
 
 ---
 
