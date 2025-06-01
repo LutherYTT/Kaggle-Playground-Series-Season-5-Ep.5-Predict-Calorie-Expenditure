@@ -53,6 +53,7 @@ Exploratory visualizations were used to validate the approach:
 ![Violin Plot](https://github.com/LutherYTT/Kaggle-Playground-Series-Season-5-Ep.5-Predict-Calorie-Expenditure/blob/main/assets/Violin%20Plot.png)
 
 - **KMeans 3D PCA Projection:** Applied PCA to reduce dimensionality and visualized KMeans clustering in 3D to explore natural groupings in the data.
+
 ![KMeans Line Chart](https://github.com/LutherYTT/Kaggle-Playground-Series-Season-5-Ep.5-Predict-Calorie-Expenditure/blob/main/assets/KMeans.png)
 
 ![KMeans 3D PCA Projection](https://github.com/LutherYTT/Kaggle-Playground-Series-Season-5-Ep.5-Predict-Calorie-Expenditure/blob/main/assets/KMeans%203D%20PCA%20Projection.png)
