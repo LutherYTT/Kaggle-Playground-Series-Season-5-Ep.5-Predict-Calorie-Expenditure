@@ -100,6 +100,7 @@ To reproduce or explore the solution:
 - Python 3.11
 - pandas
 - numpy
+- seaborn
 - matplotlib
 - scikit-learn
 - catboost
