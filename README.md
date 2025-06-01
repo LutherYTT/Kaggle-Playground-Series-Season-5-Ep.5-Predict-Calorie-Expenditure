@@ -24,7 +24,7 @@ This repository contains the code and documentation for our solution to the [Kag
 | **Name**         | **Email**              | **Kaggle Profile**    |
 |------------------|------------------------|-----------------------|
 | Lu Yuk Tong      | luyuktong@gmail.com    |https://www.kaggle.com/lutherlu|
-|X     | X    | X |
+| Lu Sze Chai    | luszechai@gmail.com    | https://www.kaggle.com/asdavsd |
 
 
 ## Approach
