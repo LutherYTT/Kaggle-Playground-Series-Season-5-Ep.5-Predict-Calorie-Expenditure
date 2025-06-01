@@ -71,7 +71,7 @@ Model performance was assessed as follows:
 To reproduce or explore the solution:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/predict-calorie-expenditure-s5e5.git
+   https://github.com/LutherYTT/Kaggle-Playground-Series-Season-5-Ep.5-Predict-Calorie-Expenditure.git
    ```
 2. **Install Dependencies:**
    ```bash
