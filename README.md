@@ -42,6 +42,7 @@ Exploratory visualizations were used to validate the approach:
 - **Violin Plot:** Illustrated the distribution and density of features across `Sex` or other categorical variables, highlighting variations in feature behavior.
 - **KMeans 3D PCA Projection:** Applied PCA to reduce dimensionality and visualized KMeans clustering in 3D to explore natural groupings in the data.
 - **Histograms of OOF Predictions:** Plotted out-of-fold (OOF) predictions from CatBoost and XGBoost models to analyze the distribution of predicted calorie expenditures and ensure alignment with the target variable.
+- - [Histograms of OOF Predictions](https://github.com/LutherYTT/Kaggle-Playground-Series-Season-5-Ep.5-Predict-Calorie-Expenditure/blob/main/assets/Histograms%20of%20OOF%20Predictions.png)
 
 ### Model Selection and Training
 The solution leveraged an ensemble approach:
